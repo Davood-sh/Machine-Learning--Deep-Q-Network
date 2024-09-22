@@ -1,4 +1,4 @@
-# Machine-Learning--Deep-Q-Network
+# Machine-Learning-Deep-Q-Network
 ## Problem Overview
 The main objective of this project is to implement a Reinforcement Learning (RL) Agent using two different approaches:
 1. **Tabular Q-Learning**
