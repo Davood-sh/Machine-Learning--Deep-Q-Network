@@ -1,7 +1,7 @@
 # Machine-Learning-Deep-Q-Network
 ## Problem Overview
 The main objective of this project is to implement a Reinforcement Learning (RL) Agent using two different approaches:
-1. **Tabular Q-Learning**
+1. **Tabular Q-Learning** (in this repository : https://github.com/Davood-sh/Machine-Learning-Q-Learning.git)
 2. **Deep Q-Network (DQN)** — utilizing a neural network to approximate the Q-function.
 
 The RL Agent is designed to learn how to solve a problem in a given environment by interacting with it and improving its strategy over time.
